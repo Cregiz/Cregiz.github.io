@@ -1,5 +1,4 @@
- 
- ## Joni Tolonen web-tehtävä
+## Joni Tolonen web-tehtävä
 
 
 
@@ -76,18 +75,26 @@ I read this interesting quote the other day:
 
 ## Lists
 
+
+### Ensimmäinen tehtävä
 * Flour
 * Cheese
 * Tomatoes
 
+
+### Toinen tehtävä
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
+
+### Kolmas tehtävä
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
+
+### Neljäs tehtävä
 * Calculus
  * A professor
  * Has no hair
@@ -96,6 +103,8 @@ I read this interesting quote the other day:
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
+
+ ### Viides tehtävä
 
  1. Cut the cheese
 
