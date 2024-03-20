@@ -1,8 +1,10 @@
+ 
  ## Joni Tolonen web-tehtävä
 
 
 
-<!-- Italics and bold -->
+## Italics and bold
+
  Writing in Markdown is _not_ that hard!
 
 I **will** complete these lessons!
@@ -14,7 +16,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 
-<!-- Headers -->
+## Headers
 
 # Header one
 ## Header two
@@ -26,7 +28,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 
-<!-- Links -->
+## Links
 
 [Search for it.](www.google.com)
 
@@ -42,10 +44,7 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: www.stumbleupon.com
 
 
-
-
-
-<!-- Images -->
+## Images 
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -58,7 +57,7 @@ Well, do I have [the website for you][another fun place]!
 
 
 
-<!-- Blockquotes -->
+## Blockquotes
 
 I read this interesting quote the other day:
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -75,7 +74,7 @@ I read this interesting quote the other day:
 
 
 
-<!-- Lists -->
+## Lists
 
 * Flour
 * Cheese
@@ -111,7 +110,7 @@ I read this interesting quote the other day:
 
 
 
- <!-- Paragraphs -->
+ ## Paragraphs 
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
