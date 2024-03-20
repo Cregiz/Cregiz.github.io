@@ -104,7 +104,7 @@ I read this interesting quote the other day:
  * Has white hair
  * Is possibly mentally unwell
 
- ### Viides tehtävä
+### Viides tehtävä
 
  1. Cut the cheese
 
@@ -119,7 +119,7 @@ I read this interesting quote the other day:
 
 
 
- ## Paragraphs 
+## Paragraphs 
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
