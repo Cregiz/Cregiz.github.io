@@ -1,5 +1,7 @@
 ## Joni Tolonen web-tehtävä
 
+[LINK TO github.md](https://cregiz.github.io/github.md)
+
 
 
 ## Italics and bold

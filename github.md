@@ -1,3 +1,6 @@
+[LINK TO index.md](https://cregiz.github.io/)
+
+
 cd loppuprojekti
 git init
 git add --all
